@@ -1,0 +1,2 @@
+# Case_Study_on_Numpy_Pandas
+Case_Study_on_Numpy_Pandas_DSA_IRP_Feb_2026
